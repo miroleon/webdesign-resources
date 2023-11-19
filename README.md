@@ -15,7 +15,7 @@ This is a list of resources I've used to learn and teach Web Design. Helpful sug
 - Make suggestions for the list on [Discord](https://discord.gg/pxv5fzmShE)!
 - ...more to come...
 
-The other resource lists include [Web Design](), [3D Rendering](), and [AI Resources]().
+The other resource lists include [Three.js](https://miroleon.github.io/threejs-resources/), [3D Rendering](), and [AI Resources](https://miroleon.github.io/ai-resources/).
 
 ---
 
